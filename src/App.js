@@ -6,6 +6,7 @@ import { Router } from 'express';
 import { Route, Routes } from 'react-router-dom';
 import CreateCategory from './Components/Add-category/Add-category';
 import Createlivre from './Components/Add-Livre/Add-livre';
+import Bibliotheque from './Components/Bibliotheque/Bibliotheque';
 
 function App() {
   return (
